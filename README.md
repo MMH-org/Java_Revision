@@ -28,8 +28,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/java-dsa.git
-   cd java-dsa
+   git clone https://github.com/MMH-org/Java_Revision.git
 ## License
 This project is licensed under the MIT License.
 [MIT License](LICENSE)
