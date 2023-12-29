@@ -10,7 +10,7 @@ class Child extends Parent{
 }
 public class DayQ {
     public static void main(String[] args) {
-        Parent child=new Child();
+        Child child=new Child();
         child.hello(); // find Answer hello, Compiler error, and Runtime exception
     }
 }
