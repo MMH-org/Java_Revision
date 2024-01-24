@@ -1,10 +1,9 @@
-package src.Java;
+package src.JavaBasic;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class InPutOutPut {
-    public static void main(String[] args) {
+    public void readWrite() { // this file run in Main.java file
         Scanner sc_object_1=new Scanner(System.in); // creating an object of Scanner class
         Scanner sc_object_2=new Scanner(System.in); // creating an object of Scanner class
 

@@ -1,4 +1,4 @@
-package src;
+package src.Demo;
 
 import static java.lang.System.*;
 public class StaticDemo {

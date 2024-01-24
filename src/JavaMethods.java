@@ -12,9 +12,6 @@ class  Algebra{
 
 
 
-
-
-
 public class JavaMethods {
     public static void main(String[] args) {
         Algebra obj =new Algebra();

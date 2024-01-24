@@ -1,4 +1,4 @@
-package src;
+package src.Demo;
 
 import java.util.Scanner;
 
