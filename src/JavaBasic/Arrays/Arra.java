@@ -1,4 +1,4 @@
-package src.JavaBasic;
+package src.JavaBasic.Arrays;
 
 class Arra{
     public static void main(String args[]){
