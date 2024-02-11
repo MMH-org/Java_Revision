@@ -15,5 +15,16 @@ public class stringBuilder1 {
         // add and shift in index o
         sb.insert(0,"s");
         System.out.println(sb);
+
+        // delete
+        sb.delete(0,1);  // 0 to 0 and 1 is excluded
+        System.out.println(sb);
+
+        StringBuilder sbNew=new StringBuilder("D");
+        sbNew.append("e");
+        sbNew.append("v");
+        sbNew.append("i");
+        sbNew.append("l");
+        System.out.println(sbNew);
     }
 }
