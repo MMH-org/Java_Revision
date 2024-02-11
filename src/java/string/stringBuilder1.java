@@ -25,6 +25,7 @@ public class stringBuilder1 {
         sbNew.append("v");
         sbNew.append("i");
         sbNew.append("l");
-        System.out.println(sbNew);
+        System.out.println("new object : "+sbNew);
+        System.out.println("new String builder object lengths : "+sbNew.length());
     }
 }
