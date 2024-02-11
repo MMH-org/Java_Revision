@@ -1,4 +1,4 @@
-package src.JavaBasic.Arrays;
+package src.Basic.Arrays;
 
 
 class forloopArra{

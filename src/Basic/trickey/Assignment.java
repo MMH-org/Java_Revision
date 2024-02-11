@@ -1,4 +1,4 @@
-package src.JavaBasic.trickey;
+package src.Basic.trickey;
 
 public class Assignment {
 

@@ -1,4 +1,4 @@
-package src.JavaBasic.Arrays;
+package src.Basic.Arrays;
 
 class forloopArr{
     //creating a method which receives an array as a parameter

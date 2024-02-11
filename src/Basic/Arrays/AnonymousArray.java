@@ -1,4 +1,4 @@
-package src.JavaBasic.Arrays;
+package src.Basic.Arrays;
 
 //Java Program to demonstrate the way of passing an anonymous array
 //to method.
