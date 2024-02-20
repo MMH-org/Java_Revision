@@ -29,6 +29,7 @@ public class ArithmeticOperators {
         double dInt = sc.nextDouble();
         System.out.println("Enter the 2nd floating number :  ");
         double dInt2 = sc.nextDouble();
+        sc.close();
         System.out.println("Your out put is :  "+dInt*dInt2);
     }
 }

@@ -10,6 +10,7 @@ public class TwoNumberSwap {
         Byte a = sc.nextByte();
         System.out.print("Enter Number B :  ");
         Byte b = sc.nextByte();
+        sc.close();
 
         Byte c= a;
         a=b;
