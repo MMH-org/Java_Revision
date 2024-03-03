@@ -8,9 +8,7 @@ public class SuperClassException {
             int c=a/b;
             System.out.println(c);
         }catch (Exception e){
-            System.out.println(e.getMessage());
-            System.out.println(e.getClass());
-            System.out.println(e.getLocalizedMessage());
+            System.out.println(e.getClass() +" <=> "+ e.getMessage());
         }
     }
 }
