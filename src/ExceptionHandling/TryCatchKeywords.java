@@ -1,6 +1,6 @@
 package src.ExceptionHandling;
 
-public class SuperClassException {
+public class TryCatchKeywords {
     public static void main(String[] args) {
         int a=10;
         int b=0;
