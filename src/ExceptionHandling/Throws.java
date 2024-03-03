@@ -1,6 +1,6 @@
 package src.ExceptionHandling;
 
-public class ThrowExceptions {
+public class Throws {
     public static void demoFun(int dividend ,int divisor){
         System.out.println(dividend/divisor);
     }
