@@ -5,7 +5,7 @@ public class Throws {
         System.out.println(dividend/divisor);
     }
 
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         demoFun(10,2);
     }
 }

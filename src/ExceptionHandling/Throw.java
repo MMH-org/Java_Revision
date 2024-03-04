@@ -1,13 +1,17 @@
 package src.ExceptionHandling;
 
+import java.util.Scanner;
+
 public class Throw {
-    public static void main(String[] args){
-        int age=10;
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter Your age  ");
+        int age= scanner.nextInt();
         if (age<=18){
-        throw new ArithmeticException ("hey dear is this is wrong age ");
+        throw new ArithmeticException ("hey your age not eligible ");
         }
         else {
-            System.out.println("You are eligible");
+            System.out.print("Your age " + age + " and you are now eligible");
         }
     }
 }
