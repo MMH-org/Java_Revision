@@ -2,10 +2,12 @@ package src.bitmanipulation;
 
 public class BitManipulation {
     public static void main(String[] args) {
-        int n =5;
-        int pos = 1;
-        int bitMask = 1<<pos;
-//        if ((bitMask & n) == 0){
+        int n =5; // 0101
+        int positionsShift = 0;
+        int bitMask = 1<<positionsShift;
+
+//      // get bit
+//        if ((bitMask & n) == 3){
 //            System.out.println("bit was zero");
 //        }
 //        else {
